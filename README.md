@@ -1,6 +1,7 @@
 ### Hello my consagred 👋
-- 🔭 I’m currently working on JAVA/PYTHON
+- 🔭 I’m currently working on JAVA/PYTHON and AWS
 - 🌱 I’m currently learning AWS
+- 📫 How to reach me: https://www.linkedin.com/in/william1184/
 <!--
 **william1184/william1184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
